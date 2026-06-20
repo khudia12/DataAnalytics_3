@@ -103,7 +103,7 @@ python main.py
 - create_visualization - Создание графиков
 
 ## Демонстрация запуск
-
+https://github.com/user-attachments/assets/10dbf1c4-0f8e-477b-963d-bed051040d40
 
 ## Пример 1 (из видео)
 Датасет:
