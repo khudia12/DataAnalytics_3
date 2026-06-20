@@ -102,12 +102,12 @@ python main.py
 - execute_python - Выполнение Python кода для анализа
 - create_visualization - Создание графиков
 
-## Демонстрация запуска и результата
+## Демонстрация запуск
 
 
 ## Пример 1 (из видео)
 Датасет:
-
+[Fashion Data_100.csv](https://github.com/user-attachments/files/29162371/Fashion.Data_100.csv)
 
 Отчёт:
 [analysis_report.pdf](https://github.com/user-attachments/files/29162306/analysis_report.pdf)
@@ -115,6 +115,7 @@ python main.py
 
 ## Пример 2
 Датасет:
+[ITC_Hotels_100.csv](https://github.com/user-attachments/files/29162374/ITC_Hotels_100.csv)
 
 Отчёт:
 [analysis_report_2.pdf](https://github.com/user-attachments/files/29162310/analysis_report_2.pdf)
