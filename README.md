@@ -101,3 +101,20 @@ python main.py
 - detect_outliers - Обнаружение выбросов
 - execute_python - Выполнение Python кода для анализа
 - create_visualization - Создание графиков
+
+## Демонстрация запуска и результата
+
+
+## Пример 1 (из видео)
+Датасет:
+
+
+Отчёт:
+[analysis_report.pdf](https://github.com/user-attachments/files/29162306/analysis_report.pdf)
+
+
+## Пример 2
+Датасет:
+
+Отчёт:
+[analysis_report_2.pdf](https://github.com/user-attachments/files/29162310/analysis_report_2.pdf)
